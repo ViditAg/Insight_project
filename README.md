@@ -9,3 +9,4 @@ Adding new market data To add data of a new market first check if the MSA code f
 Note: Keep the Market_name the same at all places as it is used in the codes.
 * Model training and results Run the code Model_training.ipynb and quartiles of weights are generated for all markets individually and all markets combined. A table and a figure is saved in folders '/Results/Figure' and '/Results/Figure'.
 * Flask app Once you run the code FLask_app.ipynb, following weblink is generated http://127.0.0.1:5000/. Copy and past the link in the web browser (incognito to avoid caching the result image). Also, clear the images in static/images folder after closing the app.
+Here is the link to the video demo-ing the [app.](https://youtu.be/tNwAyyntD7U)
